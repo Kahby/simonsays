@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+.btn{
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    height:200px;
+    
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    
+}
+.one{
+    margin-right:2.5rem;
+    width:200px;
+    text-align: center;
+    background-color: #f99b45;
+    border-radius: 20%;
+    border:10px solid black;
+}
+.two{
+    margin-left:2.5rem;
+    width:200px;
+    text-align: center;
+    background-color: #d95980;
+    border-radius: 20%;
+    border:10px solid black;
+}
+.three{
+    margin-right:2.5rem;
+    width:200px;
+    text-align: center;
+    background-color: #63aac0;
+    border-radius: 20%;
+    border:10px solid black;
+}
+.four{
+    margin-left:2.5rem;
+    width:200px;
+    text-align: center;
+    background-color: #819ff9;
+    border-radius: 20%;
+    border:10px solid black;
+}
+.flash{
+    background-color: white;
+}
+.flashh{
+    background-color: green;
+}
