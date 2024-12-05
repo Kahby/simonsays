@@ -123,6 +123,12 @@ document.addEventListener("keypress",function(){
         levelup();
     }
 })
+document.addEventListener("click",function(){
+    if(started==false){
+        started=true;
+        levelup();
+    }
+})
 function btnflash(btnn){
     btnn.classList.add("flash");
     setTimeout(function(){
